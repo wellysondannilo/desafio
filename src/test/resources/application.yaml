@@ -1,0 +1,4 @@
+spring:
+  application:
+    baseUrl: https://reqres.in
+    basePath: /api
